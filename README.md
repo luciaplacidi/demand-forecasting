@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project builds a machine learning model to predict product-level sales volume ("units sold") using transactional data including pricing, store and product identifiers, and promotional activity. It is designed as a portfolio project to demonstrate data preparation, modeling, evaluation, and interpretation.
+This project builds a machine learning model to predict product-level sales volume ("units sold") using transactional data including pricing, store and product identifiers, and promotional activity.
 
 ## Executive Summary
 
